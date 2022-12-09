@@ -111,7 +111,7 @@ wordcloud(
   random.order = FALSE
   )
 
-### Interactive word cloud
+### Dynamic word cloud
 
 wordcloud_plot <- wordcloud2::wordcloud2(twitter_counts)
 
